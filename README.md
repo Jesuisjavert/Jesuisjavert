@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there <img src="C:\Users\Donghoon Kang\Desktop\JesuisJavert\Jesuisjavert\hi.gif" alt="hi" style="zoom:15%;" />
 
-<!--
-**Jesuisjavert/Jesuisjavert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for a job.
+- 🌱 I’m currently learning AWS and Deep Learning.
+- 👯 I’m looking to collaborate on someone inspiring
+- 💬 Ask me about Anything ! 
+- 📫 How to reach me: jesuisjavert@gmail.com
+- 😄 Pronouns: Freins et Contrepoids!	
+- ⚡ Fun fact: I use Korean, English, French, Python, Javascript, mostly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats)
