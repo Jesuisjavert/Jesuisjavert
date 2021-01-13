@@ -12,7 +12,7 @@
 - 😄 Pronouns: Presque n'est jamais assez !
 - ⚡ Fun fact: I use Korean, English, French, Python, Javascript, mostly. 😂
 
-
+<hr>
 
 **Languages and Tools**  
 
