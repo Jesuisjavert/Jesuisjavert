@@ -1,15 +1,33 @@
-### Hi there <img src="C:\Users\Donghoon Kang\Desktop\JesuisJavert\Jesuisjavert\hi.gif" alt="hi" style="zoom:15%;" />
+### Hi there 👋 My name is Kang Donghoon
 
-<hr>
+###  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://jesuisjavert.github.io/)](https://jesuisjavert.github.io/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unialike/)](https://www.instagram.com/unialike/)
+
+- 💻 I'm Junior Developer Interested in Web and Infrastructure.
 
 - 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning AWS and Deep Learning.
-- 👯 I’m looking to collaborate on someone inspiring
-- 💬 Ask me about Anything ! 
+- 🙌 I enjoy meeting good developers and talking about development.
 - 📫 How to reach me: jesuisjavert@gmail.com
 - 😄 Pronouns: Freins et Contrepoids!	
-- ⚡ Fun fact: I use Korean, English, French, Python, Javascript, mostly.
+- ⚡ Fun fact: I use Korean, English, French, Python, Javascript, mostly. 😂
 
 
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats)
+**Languages and Tools**  
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats)![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=jesuisjavert&show_icons=true&hide_border=true)
