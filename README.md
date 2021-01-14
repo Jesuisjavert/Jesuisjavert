@@ -2,8 +2,8 @@
 
 <hr>
 
-- 💻I'm Junior Developer Interested in Web and Infrastructure.
-- 🌏I'm from South Korea living in Seoul. I've lived in France a bit, too.
+- 💻I'm a junior Developer Interested in Web, Cloud and Deep Learning.
+- 🌏I'm from South Korea living in Seoul. I had been living in France a bit, too.
 
 - 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning AWS and Deep Learning.
@@ -21,3 +21,4 @@
 <hr>
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats)![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=jesuisjavert&show_icons=true&hide_border=true)
+
