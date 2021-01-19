@@ -6,7 +6,7 @@
 - 🌏I'm from South Korea living in Seoul. I had been living in France a bit, too.
 
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning AWS and Deep Learning.
+- 🌱 I’m currently learning AWS and Deep Learning. 
 - 🙌 I enjoy meeting good developers and talking about development.
 - 📫 How to reach me: jesuisjavert@gmail.com
 - 😄 Pronouns: Presque n'est jamais assez !
