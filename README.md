@@ -4,10 +4,9 @@
 
 - 💻I'm a junior Developer Interested in Web, Cloud and Deep Learning.
 - 🌏I'm from South Korea living in Seoul. I had been living in France a bit, too.
-
 - 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning AWS and Deep Learning. 
-- 🙌 I enjoy meeting good developers and talking about development.
+- 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: jesuisjavert@gmail.com
 - 😄 Pronouns: Presque n'est jamais assez !
 - ⚡ Fun fact: I use Korean, English, French, Python, Javascript, mostly. 😂
