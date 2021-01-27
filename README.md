@@ -18,5 +18,5 @@
 
 <hr>
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats)![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=jesuisjavert&show_icons=true&hide_border=true)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats) ![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=jesuisjavert&show_icons=true&hide_border=true)
 
