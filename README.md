@@ -7,7 +7,7 @@
 - 💻I'm a junior Developer Interested in Web, Cloud and Deep Learning.
 - 🌏 I am from South Korea and live in Seoul. I lived in France for a while.
 - 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning AWS and Deep Learning. 
+- 🌱 I’m currently learning AWS services and Deep Learning. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: jesuisjavert@gmail.com
 - 😄 Fun facts: I speak Korean, English, French ! Enchanté tout le monde 😊
