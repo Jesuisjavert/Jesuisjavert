@@ -5,15 +5,22 @@
 <hr>
 
 - 💻I'm a junior Developer Interested in Web, Cloud and Deep Learning.
+
 - 🌏 I am from South Korea and live in Seoul. I lived in France for a while.
+
 - 🔭 I’m currently looking for a job.
+
 - 🌱 I’m currently learning AWS services and Deep Learning. 
+
 - 🚀 I always take care not to stay in my comfort zone.
+
 - 📫 How to reach me: jesuisjavert@gmail.com
+
 - 😄 Fun facts: I speak Korean, English, French ! Enchanté tout le monde 😊
 
+  
+
 <hr>
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1Lmt8dy3-udP6YOPQ0OfMWoDGxMg-1iOx/view)](https://drive.google.com/file/d/1Lmt8dy3-udP6YOPQ0OfMWoDGxMg-1iOx/view)
 
 **Languages and Tools**  
 
@@ -24,4 +31,3 @@
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats) ![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=jesuisjavert&show_icons=true&hide_border=true)
 
-[https://drive.google.com/file/d/1Lmt8dy3-udP6YOPQ0OfMWoDGxMg-1iOx/view?usp=sharing]: 
