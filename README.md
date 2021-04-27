@@ -5,10 +5,10 @@
 
 
 
-- 💻I'm a junior Developer Interested in Web, Cloud and Deep Learning.
-- 🌏 I am from South Korea and live in Seoul. I lived in France for a while.
-- 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning AWS services and Deep Learning. 
+- 💻I'm a Software Engineer Interested in C#, Web, Cloud and Deep Learning.
+- 🌏 I am from South Korea and living in Dongtan. I lived in France for a while.
+- 🔭 I’m currently working as a Software Enginner at ASM Korea.
+- 🌱 I’m currently learning C# / C++. 
 - 🚀 I always take care not to stay in my comfort zone.
 - 📫 How to reach me: jesuisjavert@gmail.com
 - 😄 Fun facts: I speak Korean, English, French ! Enchanté tout le monde 😊
