@@ -2,9 +2,9 @@
 
 ### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://jesuisjavert.github.io/)](https://jesuisjavert.github.io/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unialike/)](https://www.instagram.com/unialike/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesuisjavert&count_bg=%23DB74CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)](https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)
 <hr>
->Cet enseignement, c'est qu'il faut vivre comme on pense, sinon, tôt ou tard, on finit par penser comme on a vécu - Paul Bourget - Paul Bourget
+> Cet enseignement, c'est qu'il faut vivre comme on pense, sinon, tôt ou tard, on finit par penser comme on a vécu - Paul Bourget - Paul Bourget
 
-
+<br>
 
 
 - 💻I'm a Software Engineer Interested in C#, Web, Cloud and Deep Learning.
